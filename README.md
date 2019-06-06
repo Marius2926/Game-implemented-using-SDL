@@ -3,7 +3,11 @@ Gomoku game implemented in C++, using SDL (Simple DirectMedia Layer). The game i
 
 If you want to try the game on your PC you will have to link the file to the SDL library. You can find info about this here http://lazyfoo.net/tutorials/SDL/index.php in the first tutorial.
  Here are some printscreens with the game:
- <img src="img/GamePrintscreen-1.png" >
+ <img src="img/GamePrintsreen-1.png" >
+  <img src="img/GamePrintsreen-2.png" >
+   <img src="img/GamePrintsreen-3.png" >
+    <img src="img/GamePrintsreen-4.png" >
+     <img src="img/GamePrintsreen-5.png" >
  
 
 
